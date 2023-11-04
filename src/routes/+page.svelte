@@ -1,5 +1,5 @@
 <div class="grid">
-    <div>
+    <!-- <div>
         <form action="" method="POST">
             <h1>New Article</h1>
             <label for="title">Title</label>
@@ -8,7 +8,7 @@
             <textarea name="content" id="content" rows={5} />
             <button type="submit">Add Article</button>
         </form>
-    </div>
+    </div> -->
     <div>
         <h2>Article:</h2>
         <article>
